@@ -1,0 +1,1 @@
+print('test2.py 완료')
